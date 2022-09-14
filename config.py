@@ -1,0 +1,1 @@
+data_set_path = r'D:\G.O.A.T\Ingenuity Cup\面向智能化无线网络规划的网元负荷预测-数据集\test.csv'
